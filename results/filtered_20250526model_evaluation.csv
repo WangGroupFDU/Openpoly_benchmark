@@ -1,0 +1,9 @@
+model_type,avg_rank_test_mse,first_rate_test_mse,avg_rank_test_mae,first_rate_test_mae,avg_rank_test_r2,first_rate_test_r2
+GAT,5.0,0.125,5.0,0.0,4.875,0.125
+GCN,5.875,0.0,5.875,0.0,5.875,0.0
+MLP,6.5,0.0,6.25,0.25,6.5,0.0
+Spherenet,6.5,0.0,5.875,0.0,6.5,0.0
+TabPFN,2.625,0.0,2.375,0.125,2.625,0.0
+UniMol2,3.625,0.25,4.5,0.125,3.75,0.25
+XGBoost,2.375,0.625,2.375,0.5,2.375,0.625
+polyBERT,3.5,0.0,3.75,0.0,3.5,0.0
